@@ -2,7 +2,7 @@
 
 Contains the build of the game.
 
-Link to the build: https://theraizer.github.io/Azer-The-Well-Kept-Lie-Build/
+Play trial level here: https://theraizer.github.io/Azer-The-Well-Kept-Lie-Build/
 
 Code Repos: https://github.com/TheRaizer/Azer-The-Well-Kept-Lie
 
